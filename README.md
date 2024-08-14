@@ -1,11 +1,13 @@
-# Programa Top v__ -  Tiempo _______
+# Programa Top Full Stack Developer Proinnóvate 2024
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
+
 - [Nombre del mentor](profiles/mentor-principal.md)
 - Mentor 2
 - Mentor 3
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
+
 - Estudiante 1
 - Estudiante 2
 - Estudiante 3
@@ -13,56 +15,50 @@
 
 ## Como es un dia de estudio durante el programa TOP?
 
-### 8:30 am - 10:00 am:
-Clase Magistral con mentor principal
+### 7:50 am - 9:00 am:
 
-### 10:00 am - 1:30 pm:
+Clase Magistral en línea con mentor principal
+
+### 9:00 am - 5:00 pm:
+
 Pueden ocurrir varias actividades en este rango de tiempo
-- Clase de habilidades blandas
-- Clase de ingles
-- Reuniones con mentores de apoyo
+
 - Trabajar, codificar, en tu proyecto grupal/personal
-- Resolver dudas con los mentores.
+- Avanzar en el contenido de cada sprint que se encuentra en la plataforma de apoyo.
+- Hacer las misiones (retos) que son asignados en clase
+- Haer los Assesments (evaluaciones de progreso de aprendizaje) que son asignados en clase.
+- Resolver dudas con los mentores de apoyo vía chat
+- Resolver dudas con los mentores de apoyo en reuniones virtuales grupales preacordadas.
 - Planeacion del sprint
 - Demo del entregable anterior
 - Retrospectiva del spint
-- Terminar los retos o misiones que son asignados en clase
+- Resolución de dudas a través del chat
 
-### 01:00 pm - 2:30 pm
-Tiempo para almorzar
+### 05:50 pm - 7:00 pm:
 
-### 02:30 pm - 03:30 pm:
-Clase Magistral con mentor principal
-
-### 03:30 pm - 6:30 pm:
-Pueden ocurrir varias actividades en este rango de tiempo
-- Clase de habilidades blandas
-- Clase de ingles
-- Reuniones con mentores de apoyo
-- Trabajar, codificar, en tu proyecto grupal/personal
-- Resolver dudas con los mentores.
-- Planeacion del sprint
-- Demo del entregable anterior
-- Retrospectiva del spint
-- Terminar los retos o misiones que son asignados en clase
+Clase Magistral en línea con mentor principal
 
 ## Fases del programa
-- **Introducción: (3 sprints) - Proyecto en Parejas**: Para esta fase, el programa busca enseñar los conocimientos necesarios para crear una aplicación fullstack (React, node.js) que permita realizar las operaciones CRUD con un sistema de base de datos en memoria.
-- **Principal: (10 sprints) - Proyecto Grupal**: En esta fase el estudiante aplicará los conceptos previos para avanzar en temas más específicos a la hora de construir aplicaciones web escalables. El estudiante aprenderá los temas necesarios para implementar un proyecto grupal.
-- **Final: (2 sprints) - Proyecto Individual**: En la fase final, el bootcamp busca retar, incentivar a los estudiantes a crear un proyecto MVP de forma individual que utilice tecnologías emergentes en el desarrollo web, tales como GraphQL, Serverless, Next.js, Headless CMS, entre otras.
 
-## Entregables proyecto grupal 💻🤝
+- **Introducción: (3 sprints) - Proyecto en Parejas**: En esta fase, los estudiantes aprenderán a configurar su entorno de trabajo (desarrollo) a nivel profesional, repasarán las herramientas del lenguaje JavaScript necesarias para desarrolar aplicaciones web, y conocerán las mejores prácticas de cómo desarrollar software en equipo.
+  **Principal: (10 sprints) - Proyecto Grupal**: En esta fase, los estudiantes aplicarán los conceptos necesarios para profundizar en el desarrollo de aplicaciones web escalables. A lo largo de este período, aprenderán y dominarán las habilidades necesarias para colaborar en la implementación de un proyecto grupal, abordando temas más específicos y avanzados en el desarrollo web.
+- **Final: (2 sprints) - Proyecto Individual**: En esta etapa final, el bootcamp desafía a los estudiantes a desarrollar un MVP de forma individual, utilizando tecnologías emergentes en el desarrollo web. El objetivo es aplicar conocimientos adquiridos a través de herramientas como GraphQL, Serverless, Next.js, Headless CMS, entre otras, fomentando la creatividad y la capacidad de innovación
 
-- **Sprint 1**: Wireframes y backlog del proyecto e Historias de usuario.
-- **Sprint 2**: Mockups del proyecto y Layout en HTML, CSS.
-- **Sprint 3**: Implementación de los mockups en react.
-- **Sprint 4**: Navegacion de la aplicación con datos MOCK Y Despliegue en netlify.
-- **Sprint 5**: Diseno de base de datos, Modelo de datos y servidor express.
-- **Sprint 6**: Servicios backend conectores a base de datos: REST API.
-- **Sprint 7**: Pruebas: Backend y Frontend.
-- **Sprint 8**: Envio de email e Integración con pasarela de pagos.
-- **Sprint 9**: CI/CD del backend y el frontend.
-- **Sprint 10**: `DEMO Publico` 🎊🎉💻🎊🎉
+## Entregables y Assesments 💻🤝
+
+- **Sprint 1**: Entregar misión Git y Github
+- **Sprint 2**: Assesment 1 "ES6"
+- **Sprint 3**: Entrega misión "Grid Design y misión JS en el navegador"
+- **Sprint 4**: Assesment 2 "Protocolo HTTP" y entregable "Proyecto en Parejas"
+- **Sprint 5**: Entrega misión React.js
+- **Sprint 6**: Entrega del front-end del "Proyecto Grupal" y de la misión "React Context"
+- **Sprint 7**: Entrega de misión "Diagrama de bases de datos del proyecto gurpal"
+- **Sprint 8**: Entrega de misión de "Express y Autenticación con JWT" y de la misión "Pruebas Automatizadas"
+- **Sprint 9**: Assesment 3 "APIs, bases de datos relacionales, y autenticación"
+- **Sprint 10**: Entrega de misión "Bases de datos no relacionales"
+- **Sprint 11**: Entrega misión "React Native"
+- **Sprint 12**: Entrega final del "Proyecto Grupal"
+- **Post-programa**: `DEMO Publico` 🎊🎉💻🎊🎉 | Assesment CV | Assesment Github
 
 ## Requisitos para culminar satisfactoriamente el programa
 
@@ -74,7 +70,7 @@ Deberás presentar y aprobar las siguienes misiones:
 4. Proyecto Grupal.
 5. Proyecto Individual.
 
-Los lineamientos para los proyectos individuales y grupales son estos: 
+Los lineamientos para los proyectos individuales y grupales son los siguientes:
 
 **El Proyecto Grupal debe tener:**
 
@@ -83,9 +79,9 @@ Los lineamientos para los proyectos individuales y grupales son estos:
 - El backend debe estar implementado en Node.js (Express) usando TypeScript y el frontend en React.
 - Debe incluir carga de imágenes y envío de correos.
 - Debe tener al menos una de las siguientes funcionalidades:
-    - Pagos
-    - Presentar información en un mapa.
-    - Tiempo Real (Web Sockets).
+  - Pagos
+  - Presentar información en un mapa.
+  - Tiempo Real (Web Sockets).
 - Debe estar desplegada en Internet (Netllify, Heroku, Vercel)
 - Debe al menos tener pruebas end-to-end con Cypress.
 
@@ -95,8 +91,8 @@ Los lineamientos para los proyectos individuales y grupales son estos:
 - Autenticación de usuarios.
 - Debe incluir carga de imágenes.
 - Se debe presentar un video a modo de DEMO de no mas de 7 minutos donde el estudiantes exponga los siguientes temas:
-    1. Introducción (Nombre del proyecto, URL’s).
-    2. Descripción de la aplicación.
-    3. Metodología (Jira, Github, SCRUM, sprintes)
-    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
-    5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
+  1. Introducción (Nombre del proyecto, URL’s).
+  2. Descripción de la aplicación.
+  3. Metodología (Jira, Github, SCRUM, sprintes)
+  4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
+  5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras

@@ -1,4 +1,4 @@
-# NOMBRE APELLIDO
+# Mentor de Apoyo
 
 Cuentanos algo sobre ti que te gustara todos conocieramos: Quien eres? que te gusta hacer? De donde eres?
 
@@ -9,6 +9,7 @@ Cuentanos algo sobre ti que te gustara todos conocieramos: Quien eres? que te gu
 - [Website](https://gogole.com/)
 
 ## Experiencia Tecnica
+
 > En una escala de 1 a 5 como te sientes tecnicamente en esto temas:  ⭐️⭐️⭐️⭐️⭐️
 
 - Programacion: ⭐️
