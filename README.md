@@ -2,7 +2,7 @@
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 
-- [Nombre del mentor](profiles/mentor-principal.md)
+- [Cristian Moreno](profiles/mentor-principal.md)
 - Mentor 2
 - Mentor 3
 
@@ -15,7 +15,7 @@
 
 ## Como es un dia de estudio durante el programa TOP?
 
-### 7:50 am - 9:00 am:
+### 7:55 am - 9:00 am:
 
 Clase Magistral en línea con mentor principal
 
@@ -34,14 +34,14 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - Retrospectiva del spint
 - Resolución de dudas a través del chat
 
-### 05:50 pm - 7:00 pm:
+### 05:55 pm - 7:00 pm:
 
 Clase Magistral en línea con mentor principal
 
 ## Fases del programa
 
-- **Introducción: (3 sprints) - Proyecto en Parejas**: En esta fase, los estudiantes aprenderán a configurar su entorno de trabajo (desarrollo) a nivel profesional, repasarán las herramientas del lenguaje JavaScript necesarias para desarrolar aplicaciones web, y conocerán las mejores prácticas de cómo desarrollar software en equipo.
-  **Principal: (10 sprints) - Proyecto Grupal**: En esta fase, los estudiantes aplicarán los conceptos necesarios para profundizar en el desarrollo de aplicaciones web escalables. A lo largo de este período, aprenderán y dominarán las habilidades necesarias para colaborar en la implementación de un proyecto grupal, abordando temas más específicos y avanzados en el desarrollo web.
+- **Introducción: (2 sprints) - Proyecto en Parejas**: En esta fase, los estudiantes aprenderán a configurar su entorno de trabajo (desarrollo) a nivel profesional, repasarán las herramientas del lenguaje JavaScript necesarias para desarrolar aplicaciones web, y conocerán las mejores prácticas de cómo desarrollar software en equipo.
+- **Principal: (10 sprints) - Proyecto Grupal**: En esta fase, los estudiantes aplicarán los conceptos necesarios para profundizar en el desarrollo de aplicaciones web escalables. A lo largo de este período, aprenderán y dominarán las habilidades necesarias para colaborar en la implementación de un proyecto grupal, abordando temas más específicos y avanzados en el desarrollo web.
 - **Final: (2 sprints) - Proyecto Individual**: En esta etapa final, el bootcamp desafía a los estudiantes a desarrollar un MVP de forma individual, utilizando tecnologías emergentes en el desarrollo web. El objetivo es aplicar conocimientos adquiridos a través de herramientas como GraphQL, Serverless, Next.js, Headless CMS, entre otras, fomentando la creatividad y la capacidad de innovación
 
 ## Entregables y Assesments 💻🤝

@@ -1,4 +1,4 @@
-# Mentor Principal
+# Mentor de Apoyo
 
 Cuentanos algo sobre ti que te gustara todos conocieramos: Quien eres? que te gusta hacer? De donde eres?
 
