@@ -15,7 +15,7 @@
 
 ## Como es un dia de estudio durante el programa TOP?
 
-### 7:55 am - 9:00 am:
+### 8:00 am - 9:00 am:
 
 Clase Magistral en línea con mentor principal
 
@@ -34,7 +34,7 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - Retrospectiva del spint
 - Resolución de dudas a través del chat
 
-### 05:55 pm - 7:00 pm:
+### 06:00 pm - 7:00 pm:
 
 Clase Magistral en línea con mentor principal
 
