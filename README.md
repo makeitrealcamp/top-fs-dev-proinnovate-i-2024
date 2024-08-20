@@ -47,22 +47,22 @@ Clase Magistral en línea con mentor principal
 ## Entregables y Assesments 💻🤝
 
 - **Sprint 1**: Entregar misión Git y Github
-- **Sprint 2**: Assesment 1 "ES6"
+- **Sprint 2**: Entregar misión "ES6"
 - **Sprint 3**: Entrega misión "Grid Design y misión JS en el navegador"
-- **Sprint 4**: Assesment 2 "Protocolo HTTP" y entregable "Proyecto en Parejas"
+- **Sprint 4**: Assesment 1 "Entega de Proyecto en Parejas"
 - **Sprint 5**: Entrega misión React.js
 - **Sprint 6**: Entrega del front-end del "Proyecto Grupal" y de la misión "React Context"
 - **Sprint 7**: Entrega de misión "Diagrama de bases de datos del proyecto gurpal"
 - **Sprint 8**: Entrega de misión de "Express y Autenticación con JWT" y de la misión "Pruebas Automatizadas"
-- **Sprint 9**: Assesment 3 "APIs, bases de datos relacionales, y autenticación"
+- **Sprint 9**: Assesment 2  "Entrega de avance del Proyecto Grupal"
 - **Sprint 10**: Entrega de misión "Bases de datos no relacionales"
 - **Sprint 11**: Entrega misión "React Native"
-- **Sprint 12**: Entrega final del "Proyecto Grupal"
+- **Sprint 12**: Assesment 3  "Entrega final Proyecto Grupal"
 - **Post-programa**: `DEMO Publico` 🎊🎉💻🎊🎉 | Assesment CV | Assesment Github
 
 ## Requisitos para culminar satisfactoriamente el programa
 
-Deberás presentar y aprobar las siguienes misiones:
+Deberás presentar y aprobar satisfactoriamente lo siguiente:
 
 1. Assesment CV.
 2. Assesment Github.
