@@ -11,7 +11,7 @@
 - Estudiante 1
 - Estudiante 2
 - Estudiante 3
-- ...
+- Johan Pinares
 
 ## Como es un dia de estudio durante el programa TOP?
 
