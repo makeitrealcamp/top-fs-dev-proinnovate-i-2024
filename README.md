@@ -8,7 +8,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- Estudiante 1
+- [Heberth López](profiles/heberth-lopez.md)
 - Estudiante 2
 - Estudiante 3
 - ...
