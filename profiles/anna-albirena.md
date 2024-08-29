@@ -1,19 +1,18 @@
 # ANNA ALBIRENA
 
-Cuentanos algo sobre ti que te gustara todos conocieramos: Quien eres? que te gusta hacer? De donde eres?
+Soy Frontend Developer (React + TS), me gusta mucho aprender nuevas cosas siempre ... es algo que me mantiene motivada
 
 ## Perfiles sociales
 
-- [Github](https://github.com/makeitrealcamp/)
+- [Github](https://github.com/annalbirena/)
 - [Linkedin](https://www.linkedin.com/company/make-it-real-camp/)
-- [Website](https://gogole.com/)
 
 ## Experiencia Tecnica
 
 > En una escala de 1 a 5 como te sientes tecnicamente en esto temas: ⭐️⭐️⭐️⭐️⭐️
 
-- Programacion: ⭐️
-- Javascript: ⭐️
-- CSS: ⭐️
-- HTML: ⭐️
-- Git: ⭐️
+- Programacion: ⭐️⭐️⭐️⭐️
+- Javascript: ⭐️⭐️⭐️⭐️
+- CSS: ⭐️⭐️⭐️⭐️⭐️
+- HTML: ⭐️⭐️⭐️⭐️⭐️
+- Git: ⭐️⭐️⭐️
