@@ -10,7 +10,7 @@
 
 - Estudiante 1
 - Estudiante 2
-- Estudiante 3
+- [Gerson Camacho](profiles/gerson-camacho.md)
 - ...
 
 ## Como es un dia de estudio durante el programa TOP?
