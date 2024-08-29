@@ -17,4 +17,3 @@ Soy Jaqueline Rocío Ramos Vargas, de Puno, Perú. Estudie Ingeniería de Sistem
 - CSS: ⭐️⭐️⭐️
 - HTML: ⭐️⭐️⭐️
 - Git: ⭐️⭐️⭐️
-  feat: add the jaqueline profile
