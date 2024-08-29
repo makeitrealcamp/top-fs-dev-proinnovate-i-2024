@@ -8,7 +8,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- Estudiante 1
+- Augusto Perales
 - Estudiante 2
 - Estudiante 3
 - ...
