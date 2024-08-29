@@ -11,7 +11,7 @@
 - Estudiante 1
 - Estudiante 2
 - Estudiante 3
-- ...
+- [Bryam Aranguri](profiles/bryam-aranguri.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
