@@ -8,7 +8,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- Estudiante 1
+- [Anna Albirena](profiles/anna-albirena.md)
 - Estudiante 2
 - Estudiante 3
 - ...
