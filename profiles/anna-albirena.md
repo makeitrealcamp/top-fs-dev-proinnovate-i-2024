@@ -5,7 +5,7 @@ Soy Frontend Developer (React + TS), me gusta mucho aprender nuevas cosas siempr
 ## Perfiles sociales
 
 - [Github](https://github.com/annalbirena/)
-- [Linkedin](https://www.linkedin.com/company/make-it-real-camp/)
+- [Linkedin](https://www.linkedin.com/in/annalbirena/)
 
 ## Experiencia Tecnica
 
