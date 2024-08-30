@@ -9,6 +9,7 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
 - [Jaqueline Ramos](profiles/Jaqueline-Rocio-Ramos-Vargas.md)
+- [Anna Albirena](profiles/anna-albirena.md)
 - Estudiante 2
 - Estudiante 3
 - ...
