@@ -20,6 +20,8 @@
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
+- [Johan Pinares](profiles/johan-pinares.md)
+
 
 ## Como es un dia de estudio durante el programa TOP?
 
