@@ -13,7 +13,7 @@
 - [David Paredes](profiles/david-paredes.md)
 - [Val Lozano](./profiles/val-lozano.md)
 - [William Lupaca](profiles/william-lupaca.md)
-- Estudiante 3
+- [Miguel Pariona](profiles/miguel-pariona.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
