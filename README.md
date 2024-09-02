@@ -8,7 +8,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- Estudiante 1
+- [Antony Antezana](profiles/antony-antezana.md)
 - Estudiante 2
 - Estudiante 3
 - ...
