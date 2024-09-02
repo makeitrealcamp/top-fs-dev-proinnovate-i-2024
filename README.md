@@ -17,6 +17,8 @@
 - [Antony Antezana](profiles/antony-antezana.md)
 - [Gerson Camacho](profiles/gerson-camacho.md)
 - [Heberth López](profiles/heberth-lopez.md)
+- [Juan Alva](profiles/juan-alva.md)
+- [Franco Casanova](profiles/franco-casanova.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
