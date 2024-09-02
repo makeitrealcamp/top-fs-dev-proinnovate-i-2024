@@ -23,8 +23,6 @@
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
 - [Johan Pinares](profiles/johan-pinares.md)
 
-
-
 ## Como es un dia de estudio durante el programa TOP?
 
 ### 8:00 am - 9:00 am:
