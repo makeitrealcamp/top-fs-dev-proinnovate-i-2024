@@ -16,6 +16,7 @@
 - [Miguel Pariona](profiles/miguel-pariona.md)
 - [Antony Antezana](profiles/antony-antezana.md)
 - [Gerson Camacho](profiles/gerson-camacho.md)
+- [Heberth López](profiles/heberth-lopez.md)
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
 
