@@ -8,7 +8,6 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-
 - [Jaqueline Ramos](profiles/Jaqueline-Rocio-Ramos-Vargas.md)
 - [Anna Albirena](profiles/anna-albirena.md)
 - [David Paredes](profiles/david-paredes.md)
