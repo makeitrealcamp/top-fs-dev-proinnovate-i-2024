@@ -8,15 +8,16 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
--
+
 - [Jaqueline Ramos](profiles/Jaqueline-Rocio-Ramos-Vargas.md)
 - [Anna Albirena](profiles/anna-albirena.md)
 - [David Paredes](profiles/david-paredes.md)
 - [Val Lozano](./profiles/val-lozano.md)
+- [William Lupaca](profiles/william-lupaca.md)
+- [Miguel Pariona](profiles/miguel-pariona.md)
+- [Antony Antezana](profiles/antony-antezana.md)
+- [Gerson Camacho](profiles/gerson-camacho.md)
 - [Johan Pinares](profiles/johan-pinares.md)
-- Estudiante 2
-- Estudiante 3
--
 
 ## Como es un dia de estudio durante el programa TOP?
 
