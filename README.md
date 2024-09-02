@@ -8,11 +8,12 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- [Johan Pinares](profiles/johan-pinares.md)
+-
 - [Jaqueline Ramos](profiles/Jaqueline-Rocio-Ramos-Vargas.md)
 - [Anna Albirena](profiles/anna-albirena.md)
 - [David Paredes](profiles/david-paredes.md)
 - [Val Lozano](./profiles/val-lozano.md)
+- [Johan Pinares](profiles/johan-pinares.md)
 - Estudiante 2
 - Estudiante 3
 -
