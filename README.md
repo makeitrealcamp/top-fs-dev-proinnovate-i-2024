@@ -16,6 +16,8 @@
 - [Miguel Pariona](profiles/miguel-pariona.md)
 - [Antony Antezana](profiles/antony-antezana.md)
 - [Gerson Camacho](profiles/gerson-camacho.md)
+- [Juan Alva](profiles/juan-alva.md)
+
 ## Como es un dia de estudio durante el programa TOP?
 
 ### 8:00 am - 9:00 am:
