@@ -14,6 +14,7 @@
 - [Val Lozano](./profiles/val-lozano.md)
 - [William Lupaca](profiles/william-lupaca.md)
 - [Miguel Pariona](profiles/miguel-pariona.md)
+- [Antony Antezana](profiles/antony-antezana.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
