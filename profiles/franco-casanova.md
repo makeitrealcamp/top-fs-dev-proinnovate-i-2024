@@ -1,7 +1,7 @@
 # FRANCO CASANOVA
 
 Cuentanos algo sobre ti que te gustara todos conocieramos: Quien eres? que te gusta hacer? De donde eres?
-Me llamo Franco Casanova, soy Ingeniero de Sistemas, me gusta salir con amigos, jugar Dota, pescar y viajar en familia, soy de Lima Perú. Sobre programación, me ha gustado desarrollar videojuegos y paginas web.
+Me llamo Franco Casanova, soy Ingeniero de Sistemas, me gusta salir con amigos, jugar Dota, pescar y viajar en familia, soy de Lima Perú. Sobre programación, me ha gustado desarrollar videojuegos y paginas web
 
 ## Perfiles sociales
 
