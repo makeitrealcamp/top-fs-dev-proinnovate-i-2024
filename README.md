@@ -19,6 +19,7 @@
 - [Heberth López](profiles/heberth-lopez.md)
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
+- [Johan Pinares](profiles/johan-pinares.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
