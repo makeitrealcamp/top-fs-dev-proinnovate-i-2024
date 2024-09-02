@@ -19,10 +19,8 @@
 - [Heberth López](profiles/heberth-lopez.md)
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
-- [Gabriel Machicao](profiles/Gabriel-Machicao.md)
 - [Johan Pinares](profiles/johan-pinares.md)
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
-
 
 ## Como es un dia de estudio durante el programa TOP?
 
