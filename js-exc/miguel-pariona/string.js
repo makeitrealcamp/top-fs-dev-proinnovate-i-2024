@@ -10,3 +10,9 @@ function capitalize(string) {
 console.log(capitalize('hola')); // "Hola"
 console.log(capitalize('voMo')); // "Como"
 console.log(capitalize('estas')); // "Estas"
+
+/* ¿cual es el error y como seria la solución?
+Usando el string[0].toUpperCase() estamos trabajando el 1er caracter con mayuscula pero falta adicionar los
+caracteres restantes, es por ello que se le adiciona el string.slice(1) para que sume los caracteres del índice 1
+o 2da caracter hasta adelante
+*/
