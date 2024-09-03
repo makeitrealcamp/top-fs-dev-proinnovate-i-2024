@@ -20,6 +20,7 @@
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
 - [Johan Pinares](profiles/johan-pinares.md)
+- [Alexander Puma](profiles/Alexander-Puma.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
