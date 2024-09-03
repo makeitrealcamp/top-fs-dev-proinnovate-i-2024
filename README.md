@@ -21,6 +21,7 @@
 - [Franco Casanova](profiles/franco-casanova.md)
 - [Johan Pinares](profiles/johan-pinares.md)
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
+- [Alexander Puma](profiles/Alexander-Puma.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
