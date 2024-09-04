@@ -15,6 +15,16 @@
 - [William Lupaca](profiles/william-lupaca.md)
 - [Miguel Pariona](profiles/miguel-pariona.md)
 - [Antony Antezana](profiles/antony-antezana.md)
+<<<<<<< HEAD
+- [Gerson Camacho](profiles/gerson-camacho.md)
+- [Heberth López](profiles/heberth-lopez.md)
+- [Juan Alva](profiles/juan-alva.md)
+- [Franco Casanova](profiles/franco-casanova.md)
+- [Johan Pinares](profiles/johan-pinares.md)
+- [Gabriel Machicao](profiles/Gabriel-Machicao.md)
+- [Alexander Puma](profiles/Alexander-Puma.md)
+=======
+>>>>>>> 4a41d17be9756d7cd5522af8e962aeb40310a192
 
 ## Como es un dia de estudio durante el programa TOP?
 
