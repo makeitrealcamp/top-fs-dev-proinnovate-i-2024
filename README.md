@@ -22,6 +22,7 @@
 - [Johan Pinares](profiles/johan-pinares.md)
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
 - [Alexander Puma](profiles/Alexander-Puma.md)
+- [Noelia Garcia](profiles/Noelia-Garcia.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
