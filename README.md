@@ -22,6 +22,7 @@
 - [Johan Pinares](profiles/johan-pinares.md)
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
 - [Alexander Puma](profiles/Alexander-Puma.md)
+- [Bryam Aranguri](profiles/bryam-aranguri.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
