@@ -10,4 +10,7 @@
 - **VSCode settings - Github Fork** - https://us02web.zoom.us/rec/share/tyxlQHVFHdi3gMc_aoFLf--_ITVxriPq7t-1HiGnqyjdegPG2USeDtJn0kkDP-1G.D-eSQzb8HOv86Vbn - `Passcode: F$V+!08c`
 - **Fork Ejercicio**: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-08-30/qUX7EcSbl.mp4
 - **Git Merge vs Git Rebase**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-02/LJAgqFfx-.mp4
+- **Introducción a Javascript y Nodejs**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-03/Uo-JUkgBL.mp4
 
+## Sprint 2
+- **Javascript: Objectos, JSON, ESNext**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-04/EHToKA8sg.mp4
