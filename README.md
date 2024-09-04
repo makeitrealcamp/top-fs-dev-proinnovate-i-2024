@@ -20,6 +20,10 @@
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
 - [Johan Pinares](profiles/johan-pinares.md)
+<<<<<<< HEAD
+=======
+- [Gabriel Machicao](profiles/Gabriel-Machicao.md)
+>>>>>>> 07fdcb5b8842f58499eeac8263eb94ded13bd129
 - [Alexander Puma](profiles/Alexander-Puma.md)
 
 ## Como es un dia de estudio durante el programa TOP?
