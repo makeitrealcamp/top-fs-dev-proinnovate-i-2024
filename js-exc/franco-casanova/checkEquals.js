@@ -1,6 +1,6 @@
 function checkEquals(arr1, arr2) {
-    return arr1.length === arr2.length && arr1.every(function(v, i) { return v === arr2[i] });
-    /*if (arr1.length == arr2.length) {
+    //return arr1.length === arr2.length && arr1.every(function(v, i) { return v === arr2[i] });
+    /*if (arr1.length === arr2.length) {
         for (let i = 0; i < arr1.length; i++) {
             if (arr1[i] !== arr2[i]) {
                 return false;
