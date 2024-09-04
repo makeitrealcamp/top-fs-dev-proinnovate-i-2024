@@ -20,6 +20,7 @@
 - [Juan Alva](profiles/juan-alva.md)
 - [Franco Casanova](profiles/franco-casanova.md)
 - [Johan Pinares](profiles/johan-pinares.md)
+- [Alexander Puma](profiles/Alexander-Puma.md)
 - [Gabriel Machicao](profiles/Gabriel-Machicao.md)
 - [Alexander Puma](profiles/Alexander-Puma.md)
 - [Bryam Aranguri](profiles/bryam-aranguri.md)
