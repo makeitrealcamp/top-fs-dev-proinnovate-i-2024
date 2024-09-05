@@ -14,6 +14,7 @@
     "globals": "^15.9.0"
   },
   "dependencies": {
-    "bl": "^6.0.14"
+    "bl": "^6.0.14",
+    "through2-map": "^4.0.0"
   }
 }
