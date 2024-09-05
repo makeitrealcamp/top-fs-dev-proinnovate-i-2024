@@ -14,3 +14,4 @@
 
 ## Sprint 2
 - **Javascript: Objectos, JSON, ESNext**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-04/EHToKA8sg.mp4
+- **BEM Notation y Flexbox**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-05/oHXH9w5pM.mp4
