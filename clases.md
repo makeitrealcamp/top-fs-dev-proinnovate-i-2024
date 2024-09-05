@@ -15,3 +15,4 @@
 ## Sprint 2
 - **Javascript: Objectos, JSON, ESNext**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-04/EHToKA8sg.mp4
 - **BEM Notation y Flexbox**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-05/oHXH9w5pM.mp4
+- **Learn You Node - pt1:** - https://us02web.zoom.us/rec/share/6xnC0LTdtRXEZhci5goDhCUQTP6k8M_jgd-LorTIOSfxCN3PNffeI-RePIo2D8FG.WLW6vEmpnKKnV5bw `Passcode: tX+HG4K3`
