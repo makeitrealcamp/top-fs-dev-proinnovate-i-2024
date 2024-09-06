@@ -1,4 +1,5 @@
 const fs = require('fs');
 
-const contentFile = fs.readFileSync(process.argv[2]).toString()
+const path = process.argv[2];
+const contentFile = fs.readFileSync(path).toString()
 console.log(contentFile.match(/\n/g).length);
