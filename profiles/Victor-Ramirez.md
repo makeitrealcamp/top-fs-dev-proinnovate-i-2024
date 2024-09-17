@@ -13,7 +13,7 @@ Soy una persona proactiva y orientada a resultados. Me caracterizo por tener una
 > En una escala de 1 a 5 como te sientes tecnicamente en esto temas: ⭐️⭐️⭐️⭐️⭐️
 
 - Programacion: ⭐️⭐️⭐️
-- Javascript: ⭐️
+- Javascript: ⭐️⭐️
 - CSS: ⭐️⭐️
 - HTML: ⭐️⭐️
 - Git: ⭐️⭐️
