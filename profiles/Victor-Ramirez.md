@@ -1,7 +1,6 @@
 # Victor Ramirez
 
-Soy una persona proactiva y orientada a resultados. Me caracterizo por tener una actitud positiva y entusiasta ante los desafíos, soy un aprendiz rápido y siempre estoy dispuesto a asumir nuevos retos y buscar soluciones efectivas. Soy de Lima, Peru.
-
+Soy una persona proactiva y orientada a resultados. Me caracterizo por tener una actitud positiva y entusiasta ante los desafíos, soy un aprendiz rápido y siempre estoy dispuesto a asumir nuevos retos y buscar soluciones efectivas.
 ## Perfiles sociales
 
 - [Github](https://github.com/Victormrl17)
