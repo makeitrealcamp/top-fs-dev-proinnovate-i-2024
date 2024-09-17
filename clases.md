@@ -15,3 +15,17 @@
 ## Sprint 2
 - **Javascript: Objectos, JSON, ESNext**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-04/EHToKA8sg.mp4
 - **BEM Notation y Flexbox**: - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-05/oHXH9w5pM.mp4
+- **Learn You Node - pt1:** - https://us02web.zoom.us/rec/share/6xnC0LTdtRXEZhci5goDhCUQTP6k8M_jgd-LorTIOSfxCN3PNffeI-RePIo2D8FG.WLW6vEmpnKKnV5bw `Passcode: tX+HG4K3`
+- **Learn You Node - pt2:** - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-06/ejdJNa7GR.mp4
+- **Introduccion a React**: https://us02web.zoom.us/rec/share/eq1xg8F80smjDhzWNDhRZNdUTSxzlsix7YYpo10KJOdS1pS1gV3-rtr3hfL2Xnia.mj26ttN72oa7gDes?startTime=1725627585000 `Passcode: c6.w!$SG`
+
+# Sprint 3
+- https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-09/_GZsjYnxx.mp4
+- https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-10/QhwUeuiny.mp4
+- https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-11/GA-LEMZIR.mp4
+- https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-12/9ueFIgx1L.mp4
+- https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-14/pSBXxm0Kp.mp4
+
+# Sprint 4
+- Javascript en el navegador - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-16/P7cMu_yT8.mp4
+- Eventos en el navegador - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-17/o1hJOnwJB.mp4
