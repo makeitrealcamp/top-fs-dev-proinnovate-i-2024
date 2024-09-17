@@ -6,7 +6,6 @@ Soy una persona proactiva y orientada a resultados. Me caracterizo por tener una
 
 - [Github](https://github.com/Victormrl17)
 - [Linkedin](https://www.linkedin.com/in/victor-manuel-ramirez-lazarte-8049a4193/)
-- [Website](https://gogole.com/)
 
 ## Experiencia Tecnica
 
