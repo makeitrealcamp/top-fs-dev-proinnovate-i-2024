@@ -28,3 +28,4 @@
 
 # Sprint 4
 - Javascript en el navegador - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-16/P7cMu_yT8.mp4
+- Eventos en el navegador - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-17/o1hJOnwJB.mp4
