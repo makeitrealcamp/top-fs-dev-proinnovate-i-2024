@@ -25,7 +25,7 @@
 - [Alexander Puma](profiles/Alexander-Puma.md)
 - [Noelia Garcia](profiles/Noelia-Garcia.md)
 - [Bryam Aranguri](profiles/bryam-aranguri.md)
-
+- [Victor Ramirez](profiles/Victor-Ramirez.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
