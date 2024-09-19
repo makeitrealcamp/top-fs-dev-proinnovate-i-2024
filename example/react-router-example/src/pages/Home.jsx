@@ -1,13 +1,26 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import reactLogo from '../assets/react.svg';
 import viteLogo from '/vite.svg';
 
 export const HomePage = () => {
-  const [count, setCount] = useState(0);
+  let [count, setCount] = useState(0);
+
+  useEffect(() => {
+    console.log('rendered');
+    const divMain = document.getElementById('main');
+    divMain.style = 'background-color: red';
+  });
+
+  useEffect(() => {}, []);
+
+  useEffect(() => {
+    return () => {};
+  }, []);
+
   return (
     <>
-      <div>
+      <div id="main">
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>

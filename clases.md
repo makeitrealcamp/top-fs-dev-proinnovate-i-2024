@@ -29,3 +29,6 @@
 # Sprint 4
 - Javascript en el navegador - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-16/P7cMu_yT8.mp4
 - Eventos en el navegador - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-17/o1hJOnwJB.mp4
+- LocalStorage - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-18/RD0o29_oF.mp4
+- Fetch - https://us02web.zoom.us/rec/share/r1S92NmeRxz3Dgiu-FxG_6kLeXYVKKx0mLZOL6rcsBImkfigvCBRVpDjY6GmeLTX.OZvKypuW46BOssWF?startTime=1726664392000 `Passcode: 0#a3wr04`
+- React Router - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-19/vDbW3EDft.mp4
