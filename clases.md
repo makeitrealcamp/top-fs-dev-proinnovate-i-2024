@@ -32,3 +32,4 @@
 - LocalStorage - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-18/RD0o29_oF.mp4
 - Fetch - https://us02web.zoom.us/rec/share/r1S92NmeRxz3Dgiu-FxG_6kLeXYVKKx0mLZOL6rcsBImkfigvCBRVpDjY6GmeLTX.OZvKypuW46BOssWF?startTime=1726664392000 `Passcode: 0#a3wr04`
 - React Router - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-19/vDbW3EDft.mp4
+- Ciclo de vida de los componentes: https://us02web.zoom.us/rec/share/xbYTJD3jtFBLKxV51rOqlJ2wjY0JMd3RExz2owWJMS2GwN_mv1qK4QKGLnLMZQF1.NCvBL_w918qvLQU0 `Passcode: ^7kGY4F3`

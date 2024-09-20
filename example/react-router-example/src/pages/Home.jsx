@@ -3,19 +3,28 @@ import { useEffect, useState } from 'react';
 import reactLogo from '../assets/react.svg';
 import viteLogo from '/vite.svg';
 
+// useEffect(function, [dependencies])
+
+// prop = {name: 'John', age: 20, hobby: 'football'}
 export const HomePage = () => {
   let [count, setCount] = useState(0);
 
+  // Default useEffect -> mounted -> updated
   useEffect(() => {
     console.log('rendered');
-    const divMain = document.getElementById('main');
-    divMain.style = 'background-color: red';
   });
 
-  useEffect(() => {}, []);
-
+  // useEffect -> mounted
   useEffect(() => {
-    return () => {};
+    console.log('mounted 1');
+  }, []);
+
+  // useEffect -> mounted -> unmounted
+  useEffect(() => {
+    console.log('mounted 2');
+    return () => {
+      console.log('unmounted');
+    };
   }, []);
 
   return (
