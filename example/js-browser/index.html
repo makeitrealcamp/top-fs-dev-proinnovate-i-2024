@@ -1,32 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Javascript Browser</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>HTML And DOM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
-    <h1>Javascript Browser</h1>
+    <div id="app">
+      <h1>Gestión de Contactos</h1>
+      <h2>Total registrados: <span id="total">0</span></h2>
+      <form>
+        <input
+          type="text"
+          id="contactName"
+          placeholder="Ingresa nombre del contacto"
+        />
+        <button id="addContact" role="button" type="button">
+          Agregar Contacto
+        </button>
+      </form>
 
-    <ul id="people"></ul>
-
-    <button id="submit">submit</button>
-
-    <!-- <div class="miClase">
-      <h2>Result</h2>
-      <pre class="result">asas</pre>
+      <ul id="contactList"></ul>
     </div>
-
-    <div>
-      <h2>Console</h2>
-      <pre class="result">asas</pre>
-    </div>
-
-    <div class="miClase">
-      <h2>Console</h2>
-      <pre class="result">asas</pre>
-    </div> -->
-
-    <script src="./main.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
