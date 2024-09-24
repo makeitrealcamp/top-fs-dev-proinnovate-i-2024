@@ -36,3 +36,4 @@
 
 # Sprint 5
 - Config React project PT1 - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-23/VQTTQVI8r.mp4
+- Config React project PT2 - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-24/jAOCUHX4r.mp4
