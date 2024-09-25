@@ -1,0 +1,12 @@
+.displayoptions {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  border: 3px dotted blue;
+  width: 100px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.displayoptions--input:hover {
+  cursor: pointer;
+}
