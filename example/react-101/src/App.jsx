@@ -3,6 +3,10 @@ import ChildB from './components/ChildB';
 import ChildC from './components/ChildC';
 import ChildD from './components/ChildD';
 import ChildE from './components/ChildE';
+// import LoginComponent from './components/ClassComponent';
+import Login from './components/Login';
+import Register from './components/Register';
+import CUseReducerExample from './components/ComponentReducer';
 
 import './App.css';
 
@@ -19,6 +23,12 @@ function App() {
 
   return (
     <div>
+      <CUseReducerExample />
+      <hr />
+      <Login />
+      <hr />
+      <Register />
+      {/* <LoginComponent /> */}
       <ChildA name="khriztianmoreno" age={34} />
       <hr />
       <ChildB product={product} />
