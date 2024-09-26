@@ -39,3 +39,6 @@
 - Config React project PT2 - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-24/jAOCUHX4r.mp4
 - React Hooks https://us02web.zoom.us/rec/share/vXBv8OlvYjs2fplHxC0m2VeviSLftf6RsDewlRN5rApk8ojBSF0I1TRe3Iu6gyG7.fYjCSCNljS_lU2E1?startTime=1727182837000 `Passcode: 0Z@U6*^y`
 - useReducer - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-25/e_DCG2yGA.mp4
+- Ejercicio Votos: https://us02web.zoom.us/rec/share/Ztm-bNiQNXWnx5yPWwlAN6NjXMl7lzIs4lUFmvp97QYV_uzyHXOsMo2wh8P7FXv6.HhtIJoiNd2Hj5Xoa?startTime=1727269251000
+`Passcode: ehZSz0$u`
+- Contexto en react:
