@@ -1,0 +1,63 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Hotel 1",
+      "description": "Description 1",
+      "price": 100,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Hotel 2",
+      "description": "Description 2",
+      "price": 200,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Hotel 3",
+      "description": "Description 3",
+      "price": 300,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "Hotel 4",
+      "description": "Description 4",
+      "price": 400,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "name": "Hotel 5",
+      "description": "Description 5",
+      "price": 500,
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "User 1",
+      "email": "k@lo.com"
+    },
+    {
+      "id": "2",
+      "name": "User 2",
+      "email": "m@lo.com"
+    },
+    {
+      "name": "khriztian",
+      "email": "k@lolo.com",
+      "password": "2342343242",
+      "id": "Mqhi_vc"
+    },
+    {
+      "name": "asfd",
+      "email": "saber@baxus.co",
+      "password": "3453453",
+      "id": "4bcJzlz"
+    }
+  ]
+}
