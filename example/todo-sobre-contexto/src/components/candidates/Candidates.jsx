@@ -2,19 +2,20 @@ import PropTypes from 'prop-types';
 
 import Candidate from '../candidate/Candidate';
 
+import { useAppContext } from './../../store';
+
 import './candidates.css';
 
-const Candidates = ({ candidates, onHandleVote }) => {
+const Candidates = () => {
+  const { state } = useAppContext();
+  const { candidates } = state;
+
   return (
     <>
       <h2>Candidates</h2>
       <div className="candidates">
         {candidates.map((candidate) => (
-          <Candidate
-            key={candidate.id}
-            candidate={candidate}
-            onHandleVote={onHandleVote}
-          />
+          <Candidate key={candidate.id} candidate={candidate} />
         ))}
       </div>
     </>

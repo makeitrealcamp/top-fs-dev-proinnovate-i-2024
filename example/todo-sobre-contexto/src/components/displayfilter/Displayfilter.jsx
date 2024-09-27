@@ -1,11 +1,19 @@
 import PropTypes from 'prop-types';
 
+import { useAppContext, FILTER_CHANGE } from '../../store';
+
 import './displayfilter.css';
 
-const DisplayFilter = ({ onHandleFilterChange, filterType }) => {
+const DisplayFilter = () => {
+  const { state, dispatch } = useAppContext();
+
   const handleChange = ({ target }) => {
     const { value } = target;
-    onHandleFilterChange(value);
+
+    dispatch({
+      type: FILTER_CHANGE,
+      payload: value,
+    });
   };
 
   return (
@@ -17,7 +25,7 @@ const DisplayFilter = ({ onHandleFilterChange, filterType }) => {
           id="percentage"
           name="type"
           onChange={handleChange}
-          checked={filterType === 'PERCENTAGE'}
+          checked={state.filterType === 'PERCENTAGE'}
           className="displayoptions--input"
         />
         <span>Total %</span>
@@ -28,7 +36,7 @@ const DisplayFilter = ({ onHandleFilterChange, filterType }) => {
           value="TOTAL"
           id="total"
           name="type"
-          checked={filterType === 'TOTAL'}
+          checked={state.filterType === 'TOTAL'}
           onChange={handleChange}
           className="displayoptions--input"
         />

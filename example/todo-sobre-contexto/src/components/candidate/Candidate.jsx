@@ -1,9 +1,17 @@
 import PropTypes from 'prop-types';
+
+import { useAppContext, VOTE } from './../../store';
+
 import './candidate.css';
 
-const Candidate = ({ candidate, onHandleVote }) => {
+const Candidate = ({ candidate }) => {
+  const { dispatch } = useAppContext();
+
   const handleVote = () => {
-    onHandleVote(candidate.id);
+    dispatch({
+      type: VOTE,
+      payload: candidate.id,
+    });
   };
 
   return (

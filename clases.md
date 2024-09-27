@@ -42,3 +42,6 @@
 - Ejercicio Votos: https://us02web.zoom.us/rec/share/Ztm-bNiQNXWnx5yPWwlAN6NjXMl7lzIs4lUFmvp97QYV_uzyHXOsMo2wh8P7FXv6.HhtIJoiNd2Hj5Xoa?startTime=1727269251000
 `Passcode: ehZSz0$u`
 - Context en react: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-26/X2jR8YqZK.mp4
+- Mock Data: https://us02web.zoom.us/rec/share/KkoGnwdSdWL_yx0OpxXIJyVQH23ITXvMYqCzGq2y9hxvpUi-nqydvtZnanLjHcI7.jjaUIWvIkh0auupM
+`Passcode: .&DE8RkH`
+- State management con Context: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-27/-nl6KcTmx.mp4
