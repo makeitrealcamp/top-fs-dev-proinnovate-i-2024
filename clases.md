@@ -52,3 +52,4 @@
 
 - Introducción a Bases de Datos - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-30/vMxB3CLk9.mp4
 - Modelado de datos: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-01/DhUaomAFUQ.mp4
+- ORM vs QueryBuilders: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-03/zvzIxgvbaL.mp4
