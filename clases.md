@@ -53,3 +53,8 @@
 - Introducción a Bases de Datos - https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-09-30/vMxB3CLk9.mp4
 - Modelado de datos: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-01/DhUaomAFUQ.mp4
 - ORM vs QueryBuilders: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-03/zvzIxgvbaL.mp4
+- Intro a Typescript: https://us02web.zoom.us/rec/share/9z3NhLoyQBeCxDrtECsfwYLdJYzfudqysUhp6IdwBaTCRap533-rAYLWq8WKnJaV.xg2xjAwBOMjaKxkV?startTime=1727960443000 `Passcode: mgscr=6n`
+- Intro Prisma: https://us02web.zoom.us/rec/share/QAdP3oCWsJkmE_OZEJEloVCoCys867oekfPCUY68UBTp4TT-_NmPpgGUTasrzIM.HZuefAhLCYeFEkhO?startTime=1728046813000 `Passcode: aA5@g1@L`
+
+# Sprint 7
+- Intro Express.js: https://us02web.zoom.us/rec/share/JCVf-W8MsY87AcWjzjVlpYlzUvUmkCtlhcbtehU4JaibvM7Wxp6utP9kpyxB0seY.MfVjs51spw5sq0MO `Passcode: qZ*g9F!C`
