@@ -58,3 +58,4 @@
 
 # Sprint 7
 - Intro Express.js: https://us02web.zoom.us/rec/share/JCVf-W8MsY87AcWjzjVlpYlzUvUmkCtlhcbtehU4JaibvM7Wxp6utP9kpyxB0seY.MfVjs51spw5sq0MO `Passcode: qZ*g9F!C`
+- Express Endpoints:  https://us02web.zoom.us/rec/share/87wzct2dkChLMqlpJFx6ULVdHhywXjCVPVLjl3fRK9WfF96P719c1rONpmQla-Gv.iCwiEvAqoHtX6ark?startTime=1728478840000 `Passcode: m=%T1MWP`
