@@ -59,3 +59,5 @@
 # Sprint 7
 - Intro Express.js: https://us02web.zoom.us/rec/share/JCVf-W8MsY87AcWjzjVlpYlzUvUmkCtlhcbtehU4JaibvM7Wxp6utP9kpyxB0seY.MfVjs51spw5sq0MO `Passcode: qZ*g9F!C`
 - Express Endpoints:  https://us02web.zoom.us/rec/share/87wzct2dkChLMqlpJFx6ULVdHhywXjCVPVLjl3fRK9WfF96P719c1rONpmQla-Gv.iCwiEvAqoHtX6ark?startTime=1728478840000 `Passcode: m=%T1MWP`
+- Biomejs - https://us02web.zoom.us/rec/share/iS-fWxb4fNTXWwg4FqBFLizKsJEf5CEsWEHlKvtRBq8mWhVT4qDaUSRnTATl4WDf.yP_9-tdX1nKFcZnV `Passcode: trjL1^0r`
+- Node Scaffolding: https://us02web.zoom.us/rec/share/RbJudZPgkj24SpORSKqUvPKED6znUnjtnLeHuBbmSZyGDr6cN_80OreqCv_beaSq.YBteLQXygzdM-DXL `Passcode: .83274J2`
