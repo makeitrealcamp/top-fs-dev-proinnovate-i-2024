@@ -1,7 +1,9 @@
 import CardProduct from './components/Card';
 import Register from './components/Register';
+import { getAllNotes } from './services/notes';
 
 import './App.css';
+import { useEffect } from 'react';
 
 const products = [
   {
@@ -31,7 +33,16 @@ const products = [
 ];
 
 function App() {
-  console.log(import.meta.env.VITE_API_URL);
+  useEffect(() => {
+    const getData = async () => {
+      const data = await getAllNotes();
+
+      console.log(data);
+    };
+
+    getData();
+  }, []);
+
   return (
     <>
       <Register />

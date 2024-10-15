@@ -61,3 +61,8 @@
 - Express Endpoints:  https://us02web.zoom.us/rec/share/87wzct2dkChLMqlpJFx6ULVdHhywXjCVPVLjl3fRK9WfF96P719c1rONpmQla-Gv.iCwiEvAqoHtX6ark?startTime=1728478840000 `Passcode: m=%T1MWP`
 - Biomejs - https://us02web.zoom.us/rec/share/iS-fWxb4fNTXWwg4FqBFLizKsJEf5CEsWEHlKvtRBq8mWhVT4qDaUSRnTATl4WDf.yP_9-tdX1nKFcZnV `Passcode: trjL1^0r`
 - Node Scaffolding: https://us02web.zoom.us/rec/share/RbJudZPgkj24SpORSKqUvPKED6znUnjtnLeHuBbmSZyGDr6cN_80OreqCv_beaSq.YBteLQXygzdM-DXL `Passcode: .83274J2`
+- Backend con prisma: https://us02web.zoom.us/rec/share/3nKdUB1ezwL8qTSvpmRhfTCKauh5S3p0JAYqhrHS1bstlX_ptzlm4ECHITVjLGw9.4qs9TxMaJS97YgAh `Passcode: Mnf=m5dB`
+
+# Sprint 8
+- Despliegue Backend y DB: https://us02web.zoom.us/rec/share/lzPpBfWUP9ziMErH9hzXpILed1GkugRD2sM91xZ5w41VL9HrkrEduK6bfbaeorLD.r52ZRSeJmwC4UnR- `Passcode: 7czn8t@H`
+- Hash Password (user's Endpoint): https://us02web.zoom.us/rec/share/Gv8pAgLbznpWBJWZcOgzs8OFFyDUkwt0WjRtXeKB7r_qW9NK2BwHtZ7UFqe2G3Ja.V6HL6KrZ2QBqDMqG `Passcode: f9zz3Pr.`
