@@ -66,4 +66,7 @@
 # Sprint 8
 - Despliegue Backend y DB: https://us02web.zoom.us/rec/share/lzPpBfWUP9ziMErH9hzXpILed1GkugRD2sM91xZ5w41VL9HrkrEduK6bfbaeorLD.r52ZRSeJmwC4UnR- `Passcode: 7czn8t@H`
 - Hash Password (user's Endpoint): https://us02web.zoom.us/rec/share/Gv8pAgLbznpWBJWZcOgzs8OFFyDUkwt0WjRtXeKB7r_qW9NK2BwHtZ7UFqe2G3Ja.V6HL6KrZ2QBqDMqG `Passcode: f9zz3Pr.`
-- Authe middleware: https://us02web.zoom.us/rec/share/q0RRkUXM4tFaNl2-IveTg_m4n9kDjd831E6Lj4NtocwqUM_4mKAdZkUKK15v0zsU.4zFJZMY-tmE3zh17 `Passcode: XxjOzm?9`
+- Auth middleware: https://us02web.zoom.us/rec/share/q0RRkUXM4tFaNl2-IveTg_m4n9kDjd831E6Lj4NtocwqUM_4mKAdZkUKK15v0zsU.4zFJZMY-tmE3zh17 `Passcode: XxjOzm?9`
+- Role middleware: https://us02web.zoom.us/rec/share/hFIml2n_65fHtatWKraWwdYGXbbFGgjK4cKq23Qlz_gKTWLsEZ6AvZ9xd8KDG6SF.mqfwNSU1hRIBXZiY `Passcode: Jb=B6^1n`
+- NodeMailer: https://us02web.zoom.us/rec/share/Rb2YkMbkk7UR81FeuKzVcDoo4xDSdnzz7FFF8-YmaLIlPxhGmPqL9Kcw1d4xz5LM.Iir0Qav9zy9psal0 `Passcode: s4&7zTte`
+- Sendgrid: https://us02web.zoom.us/rec/share/MY8OJzuY0NrX1IZqco5SE1duG24bDlOfu3e7geMs_rz3TZ5qlIu-JU7A1924X0dg.otR6R6ZSjvhM48an `Passcode: wS1!ji3c`

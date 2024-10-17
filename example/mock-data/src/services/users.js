@@ -6,6 +6,7 @@ export async function createNewUser(formData) {
 
   const payload = {
     name: formData.name,
+    lastName: formData.lastName,
     email: formData.email,
     password: formData.password,
   };
