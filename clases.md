@@ -66,3 +66,4 @@
 # Sprint 8
 - Despliegue Backend y DB: https://us02web.zoom.us/rec/share/lzPpBfWUP9ziMErH9hzXpILed1GkugRD2sM91xZ5w41VL9HrkrEduK6bfbaeorLD.r52ZRSeJmwC4UnR- `Passcode: 7czn8t@H`
 - Hash Password (user's Endpoint): https://us02web.zoom.us/rec/share/Gv8pAgLbznpWBJWZcOgzs8OFFyDUkwt0WjRtXeKB7r_qW9NK2BwHtZ7UFqe2G3Ja.V6HL6KrZ2QBqDMqG `Passcode: f9zz3Pr.`
+- Authe middleware: https://us02web.zoom.us/rec/share/q0RRkUXM4tFaNl2-IveTg_m4n9kDjd831E6Lj4NtocwqUM_4mKAdZkUKK15v0zsU.4zFJZMY-tmE3zh17 `Passcode: XxjOzm?9`

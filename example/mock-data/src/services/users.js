@@ -2,7 +2,7 @@ const BASE_URL = import.meta.env.VITE_API_URL;
 
 // POST - CREATE
 export async function createNewUser(formData) {
-  const URL = `${BASE_URL}/users`;
+  const URL = `${BASE_URL}/api/users`;
 
   const payload = {
     name: formData.name,
@@ -25,7 +25,7 @@ export async function createNewUser(formData) {
 
 // GET - REDAD
 export async function getAllUsers() {
-  const URL = `${BASE_URL}/users`;
+  const URL = `${BASE_URL}/api/users`;
 
   const response = await fetch(URL);
   const data = await response.json();
@@ -35,7 +35,7 @@ export async function getAllUsers() {
 
 // GET - REDAD
 export async function getSingleUser(id) {
-  const URL = `${BASE_URL}/users${id}`;
+  const URL = `${BASE_URL}/api/users${id}`;
 
   const response = await fetch(URL);
   const data = await response.json();
@@ -45,7 +45,7 @@ export async function getSingleUser(id) {
 
 // UPDATE - PUT/PATCH
 export async function updateUser(id, formData) {
-  const URL = `${BASE_URL}/users/${id}`;
+  const URL = `${BASE_URL}/api/users/${id}`;
 
   const payload = {
     name: formData.name,
@@ -68,7 +68,7 @@ export async function updateUser(id, formData) {
 
 // DELETE - DELETE
 export async function deleteUser(id) {
-  const URL = `${BASE_URL}/users/${id}`;
+  const URL = `${BASE_URL}/api/users/${id}`;
 
   const response = await fetch(URL, {
     method: 'DELETE',
