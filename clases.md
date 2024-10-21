@@ -70,3 +70,6 @@
 - Role middleware: https://us02web.zoom.us/rec/share/hFIml2n_65fHtatWKraWwdYGXbbFGgjK4cKq23Qlz_gKTWLsEZ6AvZ9xd8KDG6SF.mqfwNSU1hRIBXZiY `Passcode: Jb=B6^1n`
 - NodeMailer: https://us02web.zoom.us/rec/share/Rb2YkMbkk7UR81FeuKzVcDoo4xDSdnzz7FFF8-YmaLIlPxhGmPqL9Kcw1d4xz5LM.Iir0Qav9zy9psal0 `Passcode: s4&7zTte`
 - Sendgrid: https://us02web.zoom.us/rec/share/MY8OJzuY0NrX1IZqco5SE1duG24bDlOfu3e7geMs_rz3TZ5qlIu-JU7A1924X0dg.otR6R6ZSjvhM48an `Passcode: wS1!ji3c`
+
+# Sprint 9
+- Upload files - API: https://us02web.zoom.us/rec/share/uzRsvrKFdgSsLLSjAMtqDbv8P7xHKl6wY-DfcPMod3OpL1ADtbQIx_9fGvCW1-vn.h602JEXSpD6ipUfW `Passcode: 4.^HgmaD`
