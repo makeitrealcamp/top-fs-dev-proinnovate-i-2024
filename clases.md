@@ -74,4 +74,4 @@
 # Sprint 9
 - Upload files - API: https://us02web.zoom.us/rec/share/uzRsvrKFdgSsLLSjAMtqDbv8P7xHKl6wY-DfcPMod3OpL1ADtbQIx_9fGvCW1-vn.h602JEXSpD6ipUfW `Passcode: 4.^HgmaD`
 - Payment Stripe Frontend: https://us02web.zoom.us/rec/share/bRwgqWUA7aef094YrmUxnPu8SiXZ54bVYwk52gbPeFb-4Lc2-l2nSyWhF8FHk7SW.ZWfhbL1pvhTySNEK `Passcode: 2s!sTxqY`
-- Payment Stripe Backend:
+- Payment Stripe Backend: https://us02web.zoom.us/rec/share/cQ1iJv1bpVX1xm4fRMmsw0jD5-4lLRink_vWcUOGMz9nLO8eXsUCxABDbZxxdd49.inG8q60eRngaPPeo `Passcode: Bwc?D*8m`
