@@ -76,3 +76,4 @@
 - Payment Stripe Frontend: https://us02web.zoom.us/rec/share/bRwgqWUA7aef094YrmUxnPu8SiXZ54bVYwk52gbPeFb-4Lc2-l2nSyWhF8FHk7SW.ZWfhbL1pvhTySNEK `Passcode: 2s!sTxqY`
 - Payment Stripe Backend: https://us02web.zoom.us/rec/share/cQ1iJv1bpVX1xm4fRMmsw0jD5-4lLRink_vWcUOGMz9nLO8eXsUCxABDbZxxdd49.inG8q60eRngaPPeo `Passcode: Bwc?D*8m`
 - Fundamentos de testing: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-23/6IkO5Dcldh.mp4
+- TDD: https://us02web.zoom.us/rec/share/Uwlo3GGxtnBScOnj3XgYejLP3sUJSgrs7ZXEBOhAMCPJfihSM2BW8DI34c7MrREI.-9h3LkWqibnKAtxk `Passcode: 1v+gDSfD`
