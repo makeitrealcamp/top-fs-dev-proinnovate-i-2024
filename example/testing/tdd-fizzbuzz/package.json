@@ -1,0 +1,15 @@
+{
+  "name": "tdd-fizzbuzz",
+  "version": "1.0.0",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Cristian Moreno",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.1.3"
+  }
+}

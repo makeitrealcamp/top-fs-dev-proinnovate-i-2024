@@ -61,3 +61,19 @@
 - Express Endpoints:  https://us02web.zoom.us/rec/share/87wzct2dkChLMqlpJFx6ULVdHhywXjCVPVLjl3fRK9WfF96P719c1rONpmQla-Gv.iCwiEvAqoHtX6ark?startTime=1728478840000 `Passcode: m=%T1MWP`
 - Biomejs - https://us02web.zoom.us/rec/share/iS-fWxb4fNTXWwg4FqBFLizKsJEf5CEsWEHlKvtRBq8mWhVT4qDaUSRnTATl4WDf.yP_9-tdX1nKFcZnV `Passcode: trjL1^0r`
 - Node Scaffolding: https://us02web.zoom.us/rec/share/RbJudZPgkj24SpORSKqUvPKED6znUnjtnLeHuBbmSZyGDr6cN_80OreqCv_beaSq.YBteLQXygzdM-DXL `Passcode: .83274J2`
+- Backend con prisma: https://us02web.zoom.us/rec/share/3nKdUB1ezwL8qTSvpmRhfTCKauh5S3p0JAYqhrHS1bstlX_ptzlm4ECHITVjLGw9.4qs9TxMaJS97YgAh `Passcode: Mnf=m5dB`
+
+# Sprint 8
+- Despliegue Backend y DB: https://us02web.zoom.us/rec/share/lzPpBfWUP9ziMErH9hzXpILed1GkugRD2sM91xZ5w41VL9HrkrEduK6bfbaeorLD.r52ZRSeJmwC4UnR- `Passcode: 7czn8t@H`
+- Hash Password (user's Endpoint): https://us02web.zoom.us/rec/share/Gv8pAgLbznpWBJWZcOgzs8OFFyDUkwt0WjRtXeKB7r_qW9NK2BwHtZ7UFqe2G3Ja.V6HL6KrZ2QBqDMqG `Passcode: f9zz3Pr.`
+- Auth middleware: https://us02web.zoom.us/rec/share/q0RRkUXM4tFaNl2-IveTg_m4n9kDjd831E6Lj4NtocwqUM_4mKAdZkUKK15v0zsU.4zFJZMY-tmE3zh17 `Passcode: XxjOzm?9`
+- Role middleware: https://us02web.zoom.us/rec/share/hFIml2n_65fHtatWKraWwdYGXbbFGgjK4cKq23Qlz_gKTWLsEZ6AvZ9xd8KDG6SF.mqfwNSU1hRIBXZiY `Passcode: Jb=B6^1n`
+- NodeMailer: https://us02web.zoom.us/rec/share/Rb2YkMbkk7UR81FeuKzVcDoo4xDSdnzz7FFF8-YmaLIlPxhGmPqL9Kcw1d4xz5LM.Iir0Qav9zy9psal0 `Passcode: s4&7zTte`
+- Sendgrid: https://us02web.zoom.us/rec/share/MY8OJzuY0NrX1IZqco5SE1duG24bDlOfu3e7geMs_rz3TZ5qlIu-JU7A1924X0dg.otR6R6ZSjvhM48an `Passcode: wS1!ji3c`
+
+# Sprint 9
+- Upload files - API: https://us02web.zoom.us/rec/share/uzRsvrKFdgSsLLSjAMtqDbv8P7xHKl6wY-DfcPMod3OpL1ADtbQIx_9fGvCW1-vn.h602JEXSpD6ipUfW `Passcode: 4.^HgmaD`
+- Payment Stripe Frontend: https://us02web.zoom.us/rec/share/bRwgqWUA7aef094YrmUxnPu8SiXZ54bVYwk52gbPeFb-4Lc2-l2nSyWhF8FHk7SW.ZWfhbL1pvhTySNEK `Passcode: 2s!sTxqY`
+- Payment Stripe Backend: https://us02web.zoom.us/rec/share/cQ1iJv1bpVX1xm4fRMmsw0jD5-4lLRink_vWcUOGMz9nLO8eXsUCxABDbZxxdd49.inG8q60eRngaPPeo `Passcode: Bwc?D*8m`
+- Fundamentos de testing: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-23/6IkO5Dcldh.mp4
+- TDD: https://us02web.zoom.us/rec/share/Uwlo3GGxtnBScOnj3XgYejLP3sUJSgrs7ZXEBOhAMCPJfihSM2BW8DI34c7MrREI.-9h3LkWqibnKAtxk `Passcode: 1v+gDSfD`

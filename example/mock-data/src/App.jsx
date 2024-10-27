@@ -1,51 +1,27 @@
-import CardProduct from './components/Card';
-import Register from './components/Register';
+import { Routes, Route } from 'react-router-dom';
+
+import Navbar from './components/Navbar';
+import HomePage from './pages/Home';
+import AboutPage from './pages/About';
+import InvoicePage from './pages/Invoice';
+import DetailPage from './pages/Detail';
+import RegisterPage from './pages/Register';
+import ActivePage from './pages/Active';
 
 import './App.css';
 
-const products = [
-  {
-    id: 1,
-    name: 'Product 1',
-    description: 'Description 1',
-    price: 12,
-  },
-  {
-    id: 2,
-    name: 'Product 2',
-    description: 'Description 2',
-    price: 22,
-  },
-  {
-    id: 3,
-    name: 'Product 3',
-    description: 'Description 3',
-    price: 32,
-  },
-  {
-    id: 4,
-    name: 'Product 4',
-    description: 'Description 4',
-    price: 42,
-  },
-];
-
 function App() {
-  console.log(import.meta.env.VITE_API_URL);
   return (
     <>
-      <Register />
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'space-between',
-          gap: '10px',
-        }}
-      >
-        {products.map((product) => (
-          <CardProduct key={product.id} {...product} />
-        ))}
-      </div>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="about" element={<AboutPage />} />
+        <Route path="invoice" element={<InvoicePage />} />
+        <Route path="detail/:postId" element={<DetailPage />} />
+        <Route path="register" element={<RegisterPage />} />
+        <Route path="verify-account/:token" element={<ActivePage />} />
+      </Routes>
     </>
   );
 }
