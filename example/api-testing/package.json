@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js",
-    "test": "supertest"
+    "test": "vitest"
   },
   "keywords": [],
   "author": "khriztianmoreno",
@@ -17,6 +17,7 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
+    "@faker-js/faker": "^9.0.3",
     "supertest": "^6.3.3",
     "vitest": "^2.1.3"
   }
