@@ -83,3 +83,4 @@
 # Sprint 10
 - Despliegue con Vercel: https://us02web.zoom.us/rec/share/8nF1YEFMJQHjM8ZvvOfsNPcyyDgLvhwpR9N74Olzf1pLGc30Y0o6qfdnwreMIExN.c4aF70DsFQLj-1Ya?startTime=1729861138000 `Passcode: 7Y!S%D#u`
 - OAuth Authentication: https://us02web.zoom.us/rec/share/9uDHmZjbWPU1v5xs6UZoTW2hNpwjE_DlCPj_YxkznF84uwsXxtJu4Ix28fUOH9dg.WCE8W4Z3zm5A5nuj?startTime=1729897260000 `Passcode: 0qvR$jF1`
+- CI + CD: https://us02web.zoom.us/rec/share/zyy1aaxvW64y2RZtGLNyiepFbXeVDg2nlhSJL7C_R0Q6ozBE-unAf_DlPFb4UE8w.i4dSZUyWUg113NFD `Passcode: 1?QDvU&j`
