@@ -78,5 +78,8 @@
 - Fundamentos de testing: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-23/6IkO5Dcldh.mp4
 - TDD: https://us02web.zoom.us/rec/share/Uwlo3GGxtnBScOnj3XgYejLP3sUJSgrs7ZXEBOhAMCPJfihSM2BW8DI34c7MrREI.-9h3LkWqibnKAtxk `Passcode: 1v+gDSfD`
 - Api Testing: https://us02web.zoom.us/rec/share/Mw-Ai5R39GZe-8nOzXR-B4BRavFzwlyf7EQgI5mXh1uDCLGEW08qinJsIec7BrcX.FaEbvgUfuugNddhi `Passcode: aQky26c@`
+- React Testing Library: https://us02web.zoom.us/rec/share/ybrDUgYosFIOKFa18jDc7qIYiUnFcKi4sPW5mck5X62TQ1-2bwWYNNe3bvEFu-su.KsBtZxc5hx8YwOZI `Passcode: y1bV0#qG`
+
+# Sprint 10
 - Despliegue con Vercel: https://us02web.zoom.us/rec/share/8nF1YEFMJQHjM8ZvvOfsNPcyyDgLvhwpR9N74Olzf1pLGc30Y0o6qfdnwreMIExN.c4aF70DsFQLj-1Ya?startTime=1729861138000 `Passcode: 7Y!S%D#u`
 - OAuth Authentication: https://us02web.zoom.us/rec/share/9uDHmZjbWPU1v5xs6UZoTW2hNpwjE_DlCPj_YxkznF84uwsXxtJu4Ix28fUOH9dg.WCE8W4Z3zm5A5nuj?startTime=1729897260000 `Passcode: 0qvR$jF1`
