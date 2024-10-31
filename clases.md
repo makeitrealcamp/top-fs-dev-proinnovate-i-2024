@@ -86,3 +86,4 @@
 - CI + CD: https://us02web.zoom.us/rec/share/zyy1aaxvW64y2RZtGLNyiepFbXeVDg2nlhSJL7C_R0Q6ozBE-unAf_DlPFb4UE8w.i4dSZUyWUg113NFD `Passcode: 1?QDvU&j`
 - Github Actions: https://us02web.zoom.us/rec/share/2rU2TvY41yldx15tPR08bvR-idw-m6nU2nIqcGiSZs-cCj2B8QKNwzDc5jN6Mx0.hHi6nXcsOaKaPuW8 `Passcode: 5uR9pT+2`
 - Web Socket: https://makeitreal.s3.amazonaws.com/videos/82924270610/2024-10-30/NGLTgNLLOj.mp4
+- MongoDB: https://us02web.zoom.us/rec/share/AkKSlBGybJkRF5ZAHdXAEOlQoW2mI-goLYIqvxzKw_yK5rvFoXGCMsbUN98uXa48.ZOLGxKq4J5XuGU8B `Passcode: uF8e+MN*`
