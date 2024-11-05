@@ -1,0 +1,76 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id             Int              @id @default(autoincrement())
+  email          String          
+  password       String
+  isVerified     Boolean          @default(false)
+  oauthProvider  String?
+  oauthId        String?
+  refreshTokens  RefreshToken[]
+  posts          Post[]
+  comments       Comment[]
+  likes          Like[]
+  subscription   Subscription?
+  avatarUrl      String?
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+}
+
+model RefreshToken {
+  id        Int      @id @default(autoincrement())
+  token     String   @unique
+  user      User     @relation(fields: [userId], references: [id])
+  userId    Int
+  createdAt DateTime @default(now())
+  expiresAt DateTime
+}
+
+model Post {
+  id        Int        @id @default(autoincrement())
+  content   String
+  images    String[]
+  emoticons String[]
+  author    User       @relation(fields: [authorId], references: [id])
+  authorId  Int
+  comments  Comment[]
+  likes     Like[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+}
+
+model Comment {
+  id        Int      @id @default(autoincrement())
+  content   String
+  author    User     @relation(fields: [authorId], references: [id])
+  authorId  Int
+  post      Post     @relation(fields: [postId], references: [id])
+  postId    Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Like {
+  id        Int    @id @default(autoincrement())
+  user      User   @relation(fields: [userId], references: [id])
+  userId    Int
+  post      Post   @relation(fields: [postId], references: [id])
+  postId    Int
+  isLike    Boolean
+}
+
+model Subscription {
+  id         Int      @id @default(autoincrement())
+  tier       String
+  user       User     @relation(fields: [userId], references: [id])
+  userId     Int      @unique
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}

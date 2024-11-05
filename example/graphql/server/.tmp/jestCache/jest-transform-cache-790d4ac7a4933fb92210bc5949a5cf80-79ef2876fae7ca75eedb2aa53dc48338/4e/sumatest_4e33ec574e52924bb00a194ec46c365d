@@ -1,0 +1,8 @@
+0b87807ec0383c7571888d540a2e12ba
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const globals_1 = require("@jest/globals");
+(0, globals_1.test)('suma', () => {
+    (0, globals_1.expect)(1 + 1).toBe(2);
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJmaWxlIjoiL1VzZXJzL3NoeW1teS9Eb2N1bWVudHMvcGVyc29uYWwvdG9wLWZzLWRldi1wcm9pbm5vdmF0ZS1paS0yMDI0L3NwcmludHMvc3ByaW50LTgvRGF5LTEvc3JjL3N1bWEudGVzdC50cyIsIm1hcHBpbmdzIjoiOztBQUFBLDJDQUFxRDtBQUVyRCxJQUFBLGNBQUksRUFBQyxNQUFNLEVBQUMsR0FBRSxFQUFFO0lBQ1osSUFBQSxnQkFBTSxFQUFDLENBQUMsR0FBQyxDQUFDLENBQUMsQ0FBQyxJQUFJLENBQUMsQ0FBQyxDQUFDLENBQUE7QUFDdkIsQ0FBQyxDQUFDLENBQUEiLCJuYW1lcyI6W10sInNvdXJjZXMiOlsiL1VzZXJzL3NoeW1teS9Eb2N1bWVudHMvcGVyc29uYWwvdG9wLWZzLWRldi1wcm9pbm5vdmF0ZS1paS0yMDI0L3NwcmludHMvc3ByaW50LTgvRGF5LTEvc3JjL3N1bWEudGVzdC50cyJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge2Rlc2NyaWJlLCBleHBlY3QsIHRlc3R9IGZyb20gJ0BqZXN0L2dsb2JhbHMnO1xuXG50ZXN0KCdzdW1hJywoKT0+e1xuICAgIGV4cGVjdCgxKzEpLnRvQmUoMilcbn0pIl0sInZlcnNpb24iOjN9

@@ -1,0 +1,77 @@
+
+###
+GET  http://localhost:3000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ5MDg0MWQ0LTk4NzktNGEyNS1hYjdhLWUyZmYxYTBmNzhhMiIsImVtYWlsIjoiam9objNAZW1haWwuY29tIiwicm9sZXMiOlsidXNlciIsImVkaXRvciJdLCJpYXQiOjE3Mjg5OTg1MDgsImV4cCI6MTcyOTIxNDUwOH0.SA65bmEII7VwcaFaCtcHwT5Ryvhz_0SMzCiVwwI3EaU
+Cookie: 'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ5MDg0MWQ0LTk4NzktNGEyNS1hYjdhLWUyZmYxYTBmNzhhMiIsImVtYWlsIjoiam9objNAZW1haWwuY29tIiwicm9sZXMiOlsidXNlciIsImVkaXRvciJdLCJpYXQiOjE3MjkwMzUzNzksImV4cCI6MTcyOTAzODk3OX0.WW9xlZ6R_Kw8WlUzDZkjZQ41IDLsIAbeUJ7XrsR6nVM'
+
+###
+
+GET http://localhost:3000/users/cm22k6m4z0000m1rpstksl4ua
+
+###
+
+POST http://localhost:3000/signup
+Content-Type: application/json
+
+{
+"password": "123",
+"email": "froigonninnixe-9312@yopmail.com"
+}
+
+###
+
+PUT http://localhost:3000/users/2
+Content-Type: application/json
+
+{
+"name": "Jenny Doe"
+}
+
+###
+
+DELETE http://localhost:3000/users/cm239jr7i0000vptbj74ynmdk
+
+###
+PUT http://localhost:3000/users/95f0563b-baae-4167-9f48-d9a5eac6edfe
+Content-Type: application/json
+
+{
+"age": 30,
+"bio": "I am a software engineer"
+}
+
+###
+
+GET http://localhost:3000/error
+
+###
+
+GET http://localhost:3000/projects/
+
+###
+
+POST http://localhost:3000/signup
+Content-Type: application/json
+
+{
+"password": "123",
+"email": "john3@email.com"
+}
+
+###
+
+POST http://localhost:3000/login
+Content-Type: application/json
+Authorization: 'Bearer as2312sdasd'
+
+{
+"password": "123",
+"email": "john3@email.com"
+}
+
+###
+GET http://localhost:3000/auth/user
+Cookie: connect.sid=s%3A2Qgl_dISSbQyIhYMML-RXEpow_n-vcfY.sWZRniaNBYIdBmpRRrsS941hhOUYCeJn1N6%2FstNcNL8
+
+###
+POST http://localhost:3000/transactions2
