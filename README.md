@@ -78,12 +78,11 @@ Clase Magistral en línea con mentor principal
 
 Deberás presentar y aprobar satisfactoriamente lo siguiente:
 
-1. Assesment CV.
-2. Assesment Github.
-3. Assesment LinkedIn
-4. Proyecto en Parejas.
-5. Proyecto Grupal.
-6. Proyecto Individual.
+1. Aprobación satisfactoria del proyecto grupal (fecha límite de entrega 26 de noviembre de 2024)
+2. Aprobación satisfactoria del proyecto individual o en parejas (fecha límite de entrega 10 de diciembre de 2024)
+3. Aprobación satisfactoria de la entrega del CV (fecha límite de entrega 20 de diciembre de 2024)
+4. Aprobación satisfactoria  de la entrega de LinkedIn Profile (fecha límite de entrega 20 de diciembre de 2024)
+5. Aprobación satisfactoria de la entrega del GitHub Profile (fecha límite de entrega 20 de diciembre de 2024)
 
 Los lineamientos para los proyectos individuales y grupales son los siguientes:
 
