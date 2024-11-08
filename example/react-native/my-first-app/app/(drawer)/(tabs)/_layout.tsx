@@ -17,9 +17,9 @@ export default function RootLayout() {
         }}
       />
       <Tabs.Screen
-        name="about"
+        name="gestures"
         options={{
-          title: 'Contact',
+          title: 'Gesture',
           headerShown: false,
           tabBarIcon: ({ color, focused }) => (
             <AntDesign

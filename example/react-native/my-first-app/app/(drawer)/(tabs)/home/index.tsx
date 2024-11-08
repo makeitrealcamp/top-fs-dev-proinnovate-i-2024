@@ -16,7 +16,7 @@ export default function home() {
         // source={require('../../../assets/images/adaptive-icon.png')}
         style={{ width: 200, height: 200 }}
       />
-      <Link href="/about">About</Link>
+      <Link href="/gestures">Gestures</Link>
       <Link href="/(products)">Go to products</Link>
       <Link href="/login">Go to Login</Link>
       <Link href="/profile">Go to Profile</Link>
