@@ -1,5 +1,7 @@
 import { emailRegex } from '@/libs/email_regex';
-import { useState } from 'react';
+import { useAuth } from '@/provider/AuthProvider';
+import { router } from 'expo-router';
+import { useEffect, useState } from 'react';
 import { Alert, Text, TextInput, TouchableOpacity, View } from 'react-native';
 
 export default function login() {
@@ -10,7 +12,8 @@ export default function login() {
     password: '',
   });
 
-  // Challenge use ZOD to validate form 
+  const { login, isLoggedIn } = useAuth();
+  // Challenge use ZOD to validate form
 
   const handleLogin = () => {
     console.log({
@@ -46,9 +49,15 @@ export default function login() {
     }
 
     // LOGIN SERVICE
-
+    login({ email, password });
     Alert.alert('Login', 'Login success');
   };
+
+  useEffect(() => {
+    if (isLoggedIn) {
+      router.push('/profile');
+    }
+  }, [isLoggedIn]);
 
   return (
     <View className="flex-1 justify-center">

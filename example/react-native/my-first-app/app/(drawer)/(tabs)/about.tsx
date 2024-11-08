@@ -5,7 +5,7 @@ export default function about() {
     <View style={styles.container} className="flex-1 border border-red-600">
       <Text className="text-red-400">About</Text>
       <Image
-        source={require('../assets/images/adaptive-icon.png')}
+        source={require('../../../assets/images/adaptive-icon.png')}
         style={{ width: 200, height: 200 }}
       />
       <TextInput
